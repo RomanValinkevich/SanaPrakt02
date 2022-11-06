@@ -2,5 +2,5 @@
 Console.WriteLine("Hello");
 Console.WriteLine("Hello");
 Console.WriteLine("Hello");
-Console.WriteLine("Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Some text");
+Console.WriteLine("Some text");
